@@ -1,4 +1,4 @@
-# Simple-Agggregation-Simulations
+# Simple-Aggregation-Simulations
 <p>C# code for Diffusion- and Reaction-Limited Aggregation</p>
 <p>This code implements simple two-dimensional Diffusion- and Reaction-Limited Aggregation (DLA and RLA) simulations in C#.</p>
 <p>Both DLA and RLA produce fractal aggregates, however RLA produces aggregates with higher fractal dimensions.</p>
