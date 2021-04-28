@@ -9,7 +9,7 @@
   <li>&nbsp&nbspThe walker performs a random walk until it occupies a lattice site adjacent to the cluster</li>
   <li>&nbsp&nbspThe walker either sticks (DLA) or sticks with some probability <i>p</i> (RLA).</li>
   <li>&nbsp&nbspIf the walker hits a preset maximum number of steps it is removed.</li>
-  <li>&nbsp&nbspSteps 2 - 5 are iterated a preset number of times <b>or</b> until the cluster hits a preset maximum size; in this case 80% of the lattice size.</li>
+  <li>&nbsp&nbspSteps 2 - 5 are iterated a preset number of times <b>or</b> until the cluster hits a preset maximum size.</li>
 </ol>
 
 <p>The code then saves a text file of the lattice as an array of zeros with the filled sites, i.e. the cluster, set to 1.</p>
